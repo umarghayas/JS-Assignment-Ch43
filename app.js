@@ -56,3 +56,22 @@
 // }   //DONE
 
 // Assignment # 43-48 DONE
+
+
+// Assignment # 49-52
+// 1. Create a signup form and display form data in your web 
+// page on submission
+
+
+// function submitForm(){
+//     var username = document.getElementById("username")
+//     var password = document.getElementById("password")
+//     var email = document.getElementById("email")
+    
+//     document.write("<h1>Username: "+username.value)
+//     document.write("<h1>Email: "+email.value)
+//     document.write("<h1>Password: "+password.value)
+
+// }  //DONE
+
+
